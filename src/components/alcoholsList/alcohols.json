@@ -1,0 +1,13 @@
+[{
+  "name": "Vodka",
+  "count": "500",
+  "price": "79.99"
+}, {
+  "name": "Blue curacao",
+  "count": "500",
+  "price": "317.99"
+}, {
+  "name": "Lemonade",
+  "count": "1500",
+  "price": "20.50"
+}]
